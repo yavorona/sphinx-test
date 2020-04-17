@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Polina's documentation!
+Welcome to Polina's cool documentation!
 ================================
 
 .. toctree::
