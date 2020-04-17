@@ -1,0 +1,7 @@
+# Sphinx documentation
+docs/build/
+
+#enviroment
+.py3virtualenv/
+
+.DS_Store
